@@ -1,4 +1,7 @@
 # github-topics
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rfrazier34/github-topics.svg)](https://greenkeeper.io/)
+
 node module for getting list of topics of a repository on github
 
 [NPM](https://www.npmjs.com/package/github-topics)
